@@ -82,7 +82,7 @@ export const mockData = {
     },
     {
       id: 2,
-      title: "Signy",
+      title: "Signsy",
       description:
         "Signy is a document signing app built with the MERN stack, enabling users to securely sign and manage documents online.",
       image: "/images/signsy.png",
