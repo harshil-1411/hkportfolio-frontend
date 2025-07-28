@@ -41,7 +41,7 @@ const Contact = () => {
       }
 
       // Submit form to backend
-      const response = await fetch(' https://hkportfolio-backend.onrender.com/contact', {
+      const response = await fetch('https://hkportfolio-backend.onrender.com/contact', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(formData)
