@@ -7,8 +7,8 @@ export const mockData = {
     education:
       "MCA - Gujranwala Guru Nanak Institute of Management & Technology",
     headshot:
-      "https://images.unsplash.com/photo-1560250097-0b93528c311a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDQ2NDN8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBoZWFkc2hvdHxlbnwwfHx8fDE3NTM1NDY5MTZ8MA&ixlib=rb-4.1.0&q=85",
-    bio: "Passionate Full-Stack Developer with expertise in modern web technologies. Currently working as a Full Stack Web Developer Intern at Labmentix, focused on creating innovative solutions that bridge creativity and functionality.",
+      "./images/avatar.png",
+    bio: "I’m a full-stack developer who’s genuinely passionate about building things that make life just a little bit easier—and more enjoyable—for others. Whether I’m designing a slick front-end or working behind the scenes on complex logic, I’m happiest when I can blend creativity with problem-solving. I love exploring new technologies, turning big ideas into real web experiences, and helping people bring their visions to life online. Every project is a chance to learn, grow, and connect through code.",
     email: "harshilkharbanda14@gmail.com",
     phone: "+91-9780031966",
     linkedin: "https://linkedin.com/in/harshilkharbanda",
