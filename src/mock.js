@@ -11,9 +11,8 @@ export const mockData = {
     bio: "I’m a full-stack developer who’s genuinely passionate about building things that make life just a little bit easier—and more enjoyable—for others. Whether I’m designing a slick front-end or working behind the scenes on complex logic, I’m happiest when I can blend creativity with problem-solving. I love exploring new technologies, turning big ideas into real web experiences, and helping people bring their visions to life online. Every project is a chance to learn, grow, and connect through code.",
     email: "harshilkharbanda14@gmail.com",
     phone: "+91-9780031966",
-    linkedin: "https://linkedin.com/in/harshilkharbanda",
+    linkedin: "https://linkedin.com/in/harshilkharbanda14",
     github: "https://github.com/harshilkharbanda",
-    portfolio: "harshilkharbanda.netlify.app",
     resumeUrl: "#",
   },
 
