@@ -73,7 +73,7 @@ const Navbar = () => {
           {/* Desktop CTA */}
           <div className="hidden md:block">
             <Button asChild className="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg font-medium transition-all duration-300 hover:scale-105">
-              <a href="/harshil kharbanda final.pdf" download>
+              <a href="/harshil-kharbanda-resume.pdf" download>
                 <Download className="w-4 h-4 mr-2" />
                 Resume
               </a>

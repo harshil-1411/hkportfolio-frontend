@@ -93,7 +93,7 @@ const Hero = () => {
                   asChild
                   className="border-2 border-blue-600 text-blue-600 hover:bg-blue-600 hover:text-white px-8 py-3 rounded-lg font-medium transition-all duration-300 transform hover:scale-105"
                 >
-                  <a href="/harshil kharbanda final.pdf" download>
+                  <a href="/harshil-kharbanda-resume.pdf" download>
                     <Download className="w-4 h-4 mr-2" />
                     Download Resume
                   </a>
