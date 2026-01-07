@@ -47,7 +47,7 @@ export const mockData = {
       id: 1,
       position: "Full Stack Web Developer Intern",
       company: "Labmentix",
-      duration: "June 2025 - Present",
+      duration: "June 2025 - August 2025",
       location: "Remote",
       responsibilities: [
         "Developing responsive web applications using React.js and Node.js",
@@ -67,6 +67,44 @@ export const mockData = {
   ],
 
   projects: [
+    {
+      id: 4,
+      title: "Smart Flour Mill (Atta Chakki) Automation",
+      description:
+        "A production-ready, cloud-native system to digitize a manual flour mill business. Replaces paper ledgers with a secure, automated workflow linking the owner to customers via WhatsApp. Features a stateful WhatsApp Chatbot for customers and a Mobile-First React Dashboard for admin.",
+      image: "/images/JBF.png",
+      technologies: [
+        "React.js",
+        "Tailwind CSS",
+        "AWS Lambda",
+        "DynamoDB",
+        "AWS CDK",
+        "WhatsApp API",
+      ],
+      liveDemo: "",
+      githubRepo: "",
+      category: "Full-Stack",
+      featured: true,
+    },
+    {
+      id: 5,
+      title: "Crochet By Jiya",
+      description:
+        "A custom-built web platform for a handmade crochet brand. Features a modern, responsive UI with Elvencss and a serverless Node.js/Express backend on AWS, ensuring scalability and performance.",
+      image: "/images/crochetbyjiya.png",
+      technologies: [
+        "React.js",
+        "Elvencss",
+        "Node.js",
+        "Express.js",
+        "AWS DynamoDB",
+        "Serverless",
+      ],
+      liveDemo: "https://www.CrochetByJiya.in",
+      githubRepo: "",
+      category: "Full-Stack",
+      featured: true,
+    },
     {
       id: 1,
       title: "Odit Solutions",
